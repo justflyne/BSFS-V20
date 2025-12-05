@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BSFS-V20
 BSFS V20 - Open source Brawl Stars server from us on version with 8-Bit! Written on JavaScript. 
 =======
@@ -15,6 +14,3 @@ What's implemented:
 download a client: t.me/projectbsfs
 
 if u have some questions about source - my contact: t.me/justflyne
-
-Source code was based on V18 core by Maksim (he created tailerbrawl)
->>>>>>> c0ea16d (added files to repo)
