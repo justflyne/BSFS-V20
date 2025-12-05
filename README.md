@@ -1,7 +1,7 @@
 # BSFS-V20
 BSFS V20 - Open source Brawl Stars server from us on version with 8-Bit! Written on JavaScript. 
 =======
-- Project BSFS V20 - Open source simple Brawl Stars server on version with 8-Bit!
+Project BSFS V20 - Open source simple Brawl Stars server on version with 8-Bit!
 Written on JavaScript.
 
 What's implemented:
