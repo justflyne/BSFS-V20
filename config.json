@@ -1,0 +1,20 @@
+{
+    "port": 3333,
+    "serverName": "BSFS V20",
+    "enableLogs": true,
+    "crypto": {
+        "activate": false,
+        "keys": {
+            "key": "fhsd6f86f67rt8fw78fw789we78r9789wer6re",
+            "nonce": "nonce"
+        }
+    },
+    "major": 20,
+    "build": 93,
+    "useLegacyPacketLoader": false,
+    "maxQueueSize": 1024,
+    "disconnectSessionOnQueueOverfilling": true,
+    "enableQueueOverfillingWarning": true,
+    "sessionTimeoutSeconds": 15,
+    "disableQueuebugtxtFile": true
+}
